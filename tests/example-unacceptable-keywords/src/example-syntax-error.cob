@@ -1,0 +1,8 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. example-unacceptable-keywords.
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       PROCEDURE DIVISION.
+       EXAMPLE-UNACCEPTABLE-KEYWORDS.
+         GOBACK.
+         STOP RUN.
